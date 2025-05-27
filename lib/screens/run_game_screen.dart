@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class RunGameScreen extends StatelessWidget {
+  const RunGameScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
